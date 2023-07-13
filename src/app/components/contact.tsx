@@ -24,7 +24,7 @@ const Contact = () => {
         className="flex flex-col items-start gap-y-8 rounded-3xl bg-white/5 p-8 text-start"
       >
         <div className="flex flex-col gap-y-4">
-          <span className="text-2xl font-bold">I'm interested in...</span>
+          <span className="text-2xl font-bold">Im interested in...</span>
 
           <select>
             <option>Website</option>
